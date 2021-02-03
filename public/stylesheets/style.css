@@ -1,0 +1,36 @@
+body {
+    margin: auto;
+    width: 100vh;
+    height: 100vh;
+    background-image: url('/images/moon.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    color: whitesmoke;
+}
+
+h2 {
+    color: whitesmoke;
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+p {
+    color: whitesmoke;
+    background-color: rgb(78, 78, 78);
+    text-align: center;
+}
+
+.rocket {
+    height: 70%;
+    width: 35%;
+}
